@@ -65,7 +65,7 @@ The ERD clearly shows:
 - Relationship cardinality
 - Status fields for business logic
 
-**ERD Link:**  
+**ERD Link:** https://drawsql.app/teams/mosiur-hub/diagrams/vehicle-rental-system   
 
 ---
 
